@@ -1,0 +1,39 @@
+/* body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div{margin:0;padding:0;border:0;} */
+
+/* *{margin:0;padding:0;border:0; font-family:"汉仪柏青体简", Times, serif;}
+body {font-family:"Times New Roman", Times, serif;font-size:36px;color:#000000;line-height: 36px;text-align:left}
+ul,li{list-style-type:none;} */
+
+body {font-family:"汉仪柏青体简", Times, serif;}
+.ad{ text-align:left}
+.head{width:1480px; margin:0 auto; text-align:center; height:450px;background:url("../images/dan4.jpg");}
+
+.nav a{color:#036e54;}
+
+.p{text-indent: 2em; }
+.foot{width:1002px; margin:0 auto; padding:20px 0;text-align:center;}
+
+.guntu{width:1002px; height:160px; margin:0 auto; overflow:hidden; padding-bottom:10px;}
+
+.ciqu{width:982px; height:26px; margin:0 auto; background:#9c0305; line-height:26px;}
+.ciqu p{line-height:26px; color:#FFFFFF; font-weight:bold; font-size:14px; text-align:left; text-indent:10px;}
+
+.ciqu_bot{width:982px; margin:0 auto; overflow:hidden; padding-top:20px;}
+.ciquA{width:440px; float:left; margin-left:40px; display:inline; text-align:left}
+.gequ{text-align:right;}
+
+.nav-tabs{font-size:36px; padding-top: 10px; padding-left: 20px;}
+.content{padding-top: 20px; padding-left: 20px;}
+.hh{text-align:left; font-size:36px;}
+.tt{padding-top: 120px;  font-family:"汉仪柏青体简";padding-right: 70px }
+
+
+
+
+
+
+
+
+
+
+
